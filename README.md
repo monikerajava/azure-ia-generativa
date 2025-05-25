@@ -44,7 +44,7 @@ O Chat playground é uma interface dentro do Azure AI Foundry que permite **expe
 
 3.  **Usar o Modelo Implantado:** Uma vez que o modelo esteja implantado, selecione-o no menu *Deployment* no Chat playground. É **fundamental** selecionar **Apply changes** após fazer qualquer ajuste na seção *Setup*.
 
-![Chat Playground](imagens/foundry-stack-wp.png)
+![Chat Playground](imagens/studio-chat-playground.png)
 
 
 ## Dicas para Melhorar Respostas da IA Generativa
