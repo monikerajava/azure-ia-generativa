@@ -111,4 +111,3 @@ Vamos ver como as dicas acima são aplicadas com exemplos de prompts diretamente
 
 O Azure AI Foundry Portal oferece um ambiente poderoso e acessível para experimentar e construir com IA generativa. Seguindo os passos de criação de projeto e utilizando o Chat playground com modelos como o GPT-4, você pode explorar o potencial dessa tecnologia. Lembre-se das dicas para elaborar prompts eficazes – definir objetivos claros, iterar, fornecer contexto e fontes, e definir expectativas – para obter as melhores respostas do assistente de IA. Dominar estas interações é uma habilidade valiosa no cenário atual da inteligência artificial.
 
-```
